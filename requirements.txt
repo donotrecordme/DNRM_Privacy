@@ -1,0 +1,4 @@
+opencv-python
+inference
+ultralytics
+python-dotenv
