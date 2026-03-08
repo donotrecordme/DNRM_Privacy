@@ -43,7 +43,7 @@ If it doesn't show a version number, download it from https://www.python.org/.
 
 Download this repository as a ZIP file and extract it, or clone it via terminal:
 ```bash
-git clone https://github.com/YourUsername/DNRM.git
+git clone https://github.com/donotrecordme/DNRM_Privacy.git
 ```
 ```bash
 cd DNRM
